@@ -35,4 +35,4 @@ This project is useful for learning networking, cybersecurity basics, and Python
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/netscope.git
+git clone https://github.com/vaibhavbhabad100-sketch/Local-Network-Port-Scanner
